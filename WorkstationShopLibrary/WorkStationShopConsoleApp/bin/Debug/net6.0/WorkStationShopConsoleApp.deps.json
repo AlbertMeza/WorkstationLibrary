@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WorkStationShopConsoleApp/1.0.0": {
+        "dependencies": {
+          "WorkstationShopLibrary": "1.0.0"
+        },
+        "runtime": {
+          "WorkStationShopConsoleApp.dll": {}
+        }
+      },
+      "WorkstationShopLibrary/1.0.0": {
+        "runtime": {
+          "WorkstationShopLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorkStationShopConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorkstationShopLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
