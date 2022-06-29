@@ -1,6 +1,8 @@
 # BuildAHomeWorkstation
 A tool for future developers
 
+https://www.autonomous.ai/ourblog/15-essentials-for-a-developer-desk
+
 Objectives: Create two versions of an application that ultilizes the same back-end classes and data sources.
 
 The point of this is to learn OOP, classes, and the basics of user interface.
